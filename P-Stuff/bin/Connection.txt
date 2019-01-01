@@ -1,1 +1,0 @@
-"initial catalog=Container;persist security info=False;user id=sa;packet size=4096;data source=SERVER;"

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:od="urn:schemas-microsoft-com:officedata">
+<xsd:element name="dataroot">
+<xsd:complexType>
+<xsd:choice maxOccurs="unbounded">
+<xsd:element ref="TrialStuff"/>
+</xsd:choice>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name="TrialStuff">
+<xsd:annotation>
+<xsd:appinfo/>
+</xsd:annotation>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name="SrN" minOccurs="0" od:jetType="integer" od:sqlSType="int" type="xsd:integer"/>
+<xsd:element name="LeftQty" minOccurs="0" od:jetType="integer" od:sqlSType="int" type="xsd:integer"/>
+<xsd:element name="OccVolPer" minOccurs="0" od:jetType="integer" od:sqlSType="int" type="xsd:integer"/>
+<xsd:element name="Comper" minOccurs="0" od:jetType="double" od:sqlSType="float" type="xsd:double"/>
+<xsd:element name="RdOpt" minOccurs="0" od:jetType="integer" od:sqlSType="int" type="xsd:integer"/>
+<xsd:element name="RCSep" minOccurs="0" od:jetType="string" od:sqlSType="char" type="xsd:string"/>
+<xsd:element name="wrlFn" minOccurs="0" od:jetType="string" od:sqlSType="char" type="xsd:string"/>
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+</xsd:schema>
+
+
+

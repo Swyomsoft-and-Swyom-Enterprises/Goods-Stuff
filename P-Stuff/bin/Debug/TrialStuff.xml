@@ -1,0 +1,20 @@
+<t>
+  <TrialStuff>
+    <SrN>s</SrN>
+    <LeftQty>1</LeftQty>
+    <OccVolPer>2.00</OccVolPer>
+    <Comper>3.00</Comper>
+    <RdOpt>4</RdOpt>
+    <RCSep>True</RCSep>
+    <wrlFn>C:\First.wrl</wrlFn>
+  </TrialStuff>
+  <TrialStuff>
+    <SrN>26</SrN>
+    <LeftQty>61</LeftQty>
+    <OccVolPer>85.76</OccVolPer>
+    <Comper>7.76</Comper>
+    <RdOpt>12</RdOpt>
+    <RCSep>TRUE</RCSep>
+    <wrlFn>D:\Working Folder\P-Stuffss\P-Stuffs\bin\Debug\OutPut\first26.wrl</wrlFn>
+  </TrialStuff>
+</t>

@@ -1,0 +1,696 @@
+D:\Working Folder\Develop resolution\Container Stuff\bin\Debug\Container Stuff.exe.config
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container Stuff.exe
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container Stuff.xml
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container Stuff.pdb
+D:\Working Folder\Develop resolution\Container Stuff\bin\Debug\Container Stuff.exe.manifest
+D:\Working Folder\Develop resolution\Container Stuff\bin\Debug\Container Stuff.application
+D:\Working Folder\Develop resolution\Container Stuff\bin\Debug\Container Stuff.exe
+D:\Working Folder\Develop resolution\Container Stuff\bin\Debug\Container Stuff.pdb
+D:\Working Folder\Develop resolution\Container Stuff\bin\Debug\Container Stuff.xml
+D:\Working Folder\Develop resolution\Container Stuff\bin\Debug\af\Container Stuff.resources.dll
+D:\Working Folder\Develop resolution\Container Stuff\bin\Debug\System.Printing.dll
+D:\Working Folder\Develop resolution\Container Stuff\bin\Debug\PresentationCore.dll
+D:\Working Folder\Develop resolution\Container Stuff\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\Working Folder\Develop resolution\Container Stuff\bin\Debug\Interop.Office.dll
+D:\Working Folder\Develop resolution\Container Stuff\bin\Debug\Interop.Scripting.dll
+D:\Working Folder\Develop resolution\Container Stuff\bin\Debug\Interop.SkySwReg.dll
+D:\Working Folder\Develop resolution\Container Stuff\bin\Debug\Interop.Word.dll
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\ResolveAssemblyReference.cache
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Interop.Office.dll
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Interop.Scripting.dll
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Interop.SkySwReg.dll
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Interop.Word.dll
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container Stuff.vbproj.ResolveComReference.cache
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.CrystalReport1.rpt
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.CrystalReport2.rpt
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.CrystalReport3.rpt
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.AboutStuffPlus.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.ActivitySettings.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.ChooseActivity.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.ChooseContainer.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.ChooseItem.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.ContainerMaster.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.ContainerMasterDrum.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.Reports.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.CustomerMaster.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.DisplayActivity.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.DisplayPicture.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.Form10.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.Form11.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.Form12.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.Form3.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.Form4.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.Form5.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.Form6.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.Form7.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.Form8.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.Form9.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.FreightMaster.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.frmDisplayScreen.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.frmRegister.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.frmSearch.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.frmUpdtData.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.Import_Export.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.InwardEntry.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.MasterCartonDrmEntry.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.MasterCartonEntry.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.mdiform.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.Resources.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.Progress8.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.Stuff_Viewers.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.StuffPlus.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.ContainerReport.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.TransactionMenu.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.TransactionsMenu.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.WaddleBox.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container Stuff.vbproj.GenerateResource.Cache
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.mdiform.af.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\af\Container Stuff.resources.dll
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container Stuff.TrustInfo.xml
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container Stuff.exe.manifest
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container Stuff.application
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.Calculation.resources
+D:\Working Folder\Develop resolution\Container Stuff\bin\Debug\Interop.MSScriptControl.dll
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Interop.MSScriptControl.dll
+D:\Working Folder\Develop resolution\Container Stuff\obj\Debug\Container_Stuff.NextStepShow.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\ResolveAssemblyReference.cache
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Interop.Microsoft.Office.Core.dll
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Interop.MSScriptControl.dll
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Interop.Office.dll
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Interop.Scripting.dll
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Interop.SkySwReg.dll
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Interop.Word.dll
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container Stuff.vbproj.ResolveComReference.cache
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.CrystalReport1.rpt
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.CrystalReport2.rpt
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.CrystalReport3.rpt
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.AboutStuffPlus.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.ActivitySettings.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.Calculation.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.ChooseActivity.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.ChooseContainer.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.ChooseItem.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.ContainerMaster.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.ContainerMasterDrum.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.Reports.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.CustomerMaster.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.DisplayActivity.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.DisplayPicture.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.Form10.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.Form11.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.Form12.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.Form3.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.Form4.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.Form5.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.Form6.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.Form7.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.Form8.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.Form9.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.FreightMaster.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.frmDisplayScreen.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.frmRegister.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.frmSearch.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.frmUpdtData.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.Import_Export.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.InwardEntry.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.MasterCartonDrmEntry.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.MasterCartonEntry.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.mdiform.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.Resources.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.NextStepShow.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.Progress8.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.Stuff_Viewers.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.StuffPlus.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.ContainerReport.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.TransactionMenu.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.TransactionsMenu.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.WaddleBox.resources
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container Stuff.vbproj.GenerateResource.Cache
+D:\Working Folder\Develop resolution\Container Stuff\obj\Release\Container_Stuff.mdiform.af.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container Stuff.exe
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container Stuff.xml
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container Stuff.pdb
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\ResolveAssemblyReference.cache
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Interop.MSScriptControl.dll
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Interop.Office.dll
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Interop.Scripting.dll
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Interop.SkySwReg.dll
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Interop.Word.dll
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container Stuff.vbproj.ResolveComReference.cache
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.CrystalReport1.rpt
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.CrystalReport2.rpt
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.CrystalReport3.rpt
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.AboutStuffPlus.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.ActivitySettings.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Calculation.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.ChooseActivity.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.ChooseContainer.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.ChooseItem.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.ContainerMaster.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.ContainerMasterDrum.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Reports.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.CustomerMaster.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.DisplayActivity.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.DisplayPicture.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Form10.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Form11.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Form12.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Form4.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Form5.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Form6.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Form7.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Form8.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Form9.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.FreightMaster.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.frmDisplayScreen.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.frmRegister.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.frmSearch.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.frmUpdtData.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Import_Export.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.InwardEntry.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.MasterCartonDrmEntry.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.MasterCartonEntry.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Resources.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.NextStepShow.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Progress8.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Stuff_Viewers.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.StuffPlus.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.ContainerReport.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.TransactionMenu.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.TransactionsMenu.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.WaddleBox.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container Stuff.vbproj.GenerateResource.Cache
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\af\Container Stuff.resources.dll
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container Stuff.TrustInfo.xml
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container Stuff.exe.manifest
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container Stuff.application
+D:\Working Folder\Demo solution_0\Container Stuff\bin\Release\Container Stuff.exe.config
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\ResolveAssemblyReference.cache
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Interop.Microsoft.Office.Core.dll
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Interop.MSScriptControl.dll
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Interop.Scripting.dll
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Interop.SkySwReg.dll
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Interop.Word.dll
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container Stuff.vbproj.ResolveComReference.cache
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.CrystalReport1.rpt
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.CrystalReport2.rpt
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.CrystalReport3.rpt
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.AboutStuffPlus.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.ActivitySettings.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.Calculation.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.ChooseActivity.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.ChooseContainer.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.ChooseItem.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.ContainerMaster.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.ContainerMasterDrum.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.Reports.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.CustomerMaster.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.DisplayActivity.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.DisplayPicture.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.Form10.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.Form11.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.Form12.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.Form3.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.Form4.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.Form5.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.Form6.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.Form7.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.Form8.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.Form9.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.FreightMaster.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.frmDisplayScreen.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.frmRegister.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.frmSearch.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.frmUpdtData.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.Import_Export.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.InwardEntry.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.MasterCartonDrmEntry.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.MasterCartonEntry.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.mdiform.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.Resources.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.NextStepShow.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.Progress8.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.Stuff_Viewers.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.StuffPlus.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.ContainerReport.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.TransactionMenu.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.TransactionsMenu.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.WaddleBox.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container Stuff.vbproj.GenerateResource.Cache
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container_Stuff.mdiform.af.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container Stuff.pdb
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\af\Container Stuff.resources.dll
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container Stuff.TrustInfo.xml
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container Stuff.exe.manifest
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container Stuff.exe
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Release\Container Stuff.xml
+D:\Working Folder\Demo solution_0\Container Stuff\bin\Debug\Container Stuff.exe.config
+D:\Working Folder\Demo solution_0\Container Stuff\bin\Debug\Container Stuff.exe.manifest
+D:\Working Folder\Demo solution_0\Container Stuff\bin\Debug\Container Stuff.application
+D:\Working Folder\Demo solution_0\Container Stuff\bin\Debug\Container Stuff.exe
+D:\Working Folder\Demo solution_0\Container Stuff\bin\Debug\Container Stuff.pdb
+D:\Working Folder\Demo solution_0\Container Stuff\bin\Debug\Container Stuff.xml
+D:\Working Folder\Demo solution_0\Container Stuff\bin\Debug\af\Container Stuff.resources.dll
+D:\Working Folder\Demo solution_0\Container Stuff\bin\Debug\System.Printing.dll
+D:\Working Folder\Demo solution_0\Container Stuff\bin\Debug\PresentationCore.dll
+D:\Working Folder\Demo solution_0\Container Stuff\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\Working Folder\Demo solution_0\Container Stuff\bin\Debug\Interop.MSScriptControl.dll
+D:\Working Folder\Demo solution_0\Container Stuff\bin\Debug\Interop.Office.dll
+D:\Working Folder\Demo solution_0\Container Stuff\bin\Debug\Interop.Scripting.dll
+D:\Working Folder\Demo solution_0\Container Stuff\bin\Debug\Interop.SkySwReg.dll
+D:\Working Folder\Demo solution_0\Container Stuff\bin\Debug\Interop.Word.dll
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.MDIForm.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.MDIForm.af.resources
+D:\Working Folder\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.MDIFormRes.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\ResolveAssemblyReference.cache
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Interop.MSScriptControl.dll
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Interop.Office.dll
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Interop.Scripting.dll
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Interop.Word.dll
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container Stuff.vbproj.ResolveComReference.cache
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.CrystalReport1.rpt
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.CrystalReport2.rpt
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.CrystalReport3.rpt
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.AboutStuffPlus.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.ActivitySettings.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Calculation.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.ChooseActivity.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.ChooseContainer.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.ChooseItem.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.ContainerMaster.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.ContainerMasterDrum.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Reports.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.CustomerMaster.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.DisplayActivity.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.DisplayPicture.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Form10.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Form11.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Form12.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Form4.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Form5.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Form6.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Form7.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Form8.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Form9.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.FreightMaster.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.frmDisplayScreen.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.frmRegister.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.frmSearch.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.frmUpdtData.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Import_Export.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.InwardEntry.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.MasterCartonDrmEntry.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.MasterCartonEntry.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.MDIForm.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.MDIFormRes.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Resources.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.NextStepShow.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Progress8.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Stuff_Viewers.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.StuffPlus.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.ContainerReport.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.TransactionMenu.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.TransactionsMenu.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.WaddleBox.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container Stuff.vbproj.GenerateResource.Cache
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.MDIForm.af.resources
+D:\WindowsApplication\Demo solution_0\Container Stuff\bin\Debug\System.Printing.dll
+D:\WindowsApplication\Demo solution_0\Container Stuff\bin\Debug\PresentationCore.dll
+D:\WindowsApplication\Demo solution_0\Container Stuff\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\WindowsApplication\Demo solution_0\Container Stuff\bin\Debug\Interop.MSScriptControl.dll
+D:\WindowsApplication\Demo solution_0\Container Stuff\bin\Debug\Interop.Office.dll
+D:\WindowsApplication\Demo solution_0\Container Stuff\bin\Debug\Interop.Scripting.dll
+D:\WindowsApplication\Demo solution_0\Container Stuff\bin\Debug\Interop.Word.dll
+D:\WindowsApplication\Demo solution_0\Container Stuff\bin\Debug\P-Stuff.exe.config
+D:\WindowsApplication\Demo solution_0\Container Stuff\bin\Debug\P-Stuff.exe.manifest
+D:\WindowsApplication\Demo solution_0\Container Stuff\bin\Debug\P-Stuff.application
+D:\WindowsApplication\Demo solution_0\Container Stuff\bin\Debug\P-Stuff.exe
+D:\WindowsApplication\Demo solution_0\Container Stuff\bin\Debug\P-Stuff.pdb
+D:\WindowsApplication\Demo solution_0\Container Stuff\bin\Debug\P-Stuff.xml
+D:\WindowsApplication\Demo solution_0\Container Stuff\bin\Debug\af\P-Stuff.resources.dll
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\af\P-Stuff.resources.dll
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\P-Stuff.TrustInfo.xml
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\P-Stuff.exe.manifest
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\P-Stuff.application
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\P-Stuff.exe
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\P-Stuff.xml
+D:\WindowsApplication\Demo solution_0\Container Stuff\obj\Debug\P-Stuff.pdb
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\bin\Debug\P-Stuff.exe.config
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\P-Stuff.exe
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\P-Stuff.xml
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\P-Stuff.pdb
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\bin\Debug\P-Stuff.exe.manifest
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\bin\Debug\P-Stuff.application
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\bin\Debug\P-Stuff.exe
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\bin\Debug\P-Stuff.pdb
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\bin\Debug\P-Stuff.xml
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\bin\Debug\af\P-Stuff.resources.dll
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\bin\Debug\System.Printing.dll
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\bin\Debug\PresentationCore.dll
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\bin\Debug\Interop.MSScriptControl.dll
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\bin\Debug\Interop.Office.dll
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\bin\Debug\Interop.Scripting.dll
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\bin\Debug\Interop.Word.dll
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\ResolveAssemblyReference.cache
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Interop.MSScriptControl.dll
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Interop.Office.dll
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Interop.Scripting.dll
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Interop.Word.dll
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container Stuff.vbproj.ResolveComReference.cache
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.CrystalReport1.rpt
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.CrystalReport2.rpt
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.CrystalReport3.rpt
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.AboutStuffPlus.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.ActivitySettings.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Calculation.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.ChooseActivity.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.ChooseContainer.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.ChooseItem.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.ContainerMaster.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.ContainerMasterDrum.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Reports.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.CustomerMaster.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.DisplayActivity.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.DisplayPicture.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Form10.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Form11.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Form12.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Form4.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Form5.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Form6.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Form7.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Form8.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Form9.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.FreightMaster.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.frmDisplayScreen.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.frmRegister.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.frmSearch.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.frmUpdtData.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Import_Export.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.InwardEntry.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.MasterCartonDrmEntry.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.MasterCartonEntry.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.MDIForm.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.MDIFormRes.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Resources.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.NextStepShow.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Progress8.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.Stuff_Viewers.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.StuffPlus.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.ContainerReport.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.TransactionMenu.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.TransactionsMenu.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.WaddleBox.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container Stuff.vbproj.GenerateResource.Cache
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\Container_Stuff.MDIForm.af.resources
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\af\P-Stuff.resources.dll
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\P-Stuff.TrustInfo.xml
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\P-Stuff.exe.manifest
+D:\WindowsApplication\Demo solution_0\Demo solution_0\Container Stuff\obj\Debug\P-Stuff.application
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\bin\Debug\P-Stuff.exe.config
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\P-Stuff.exe
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\P-Stuff.xml
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\P-Stuff.pdb
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\ResolveAssemblyReference.cache
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Interop.MSScriptControl.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Interop.Office.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Interop.Scripting.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Interop.Word.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container Stuff.vbproj.ResolveComReference.cache
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.CrystalReport1.rpt
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.CrystalReport2.rpt
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.CrystalReport3.rpt
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.AboutStuffPlus.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.ActivitySettings.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.Calculation.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.ChooseActivity.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.ChooseContainer.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.ChooseItem.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.ContainerMaster.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.ContainerMasterDrum.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.Reports.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.CustomerMaster.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.DisplayActivity.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.DisplayPicture.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.Form10.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.Form11.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.Form12.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.Form4.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.Form5.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.Form6.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.Form7.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.Form8.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.Form9.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.FreightMaster.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.frmDisplayScreen.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.frmRegister.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.frmSearch.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.frmUpdtData.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.Import_Export.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.InwardEntry.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.MasterCartonDrmEntry.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.MasterCartonEntry.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.MDIForm.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.MDIFormRes.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.NextStepShow.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.Progress8.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.Stuff_Viewers.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.StuffPlus.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.ContainerReport.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.TransactionMenu.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.TransactionsMenu.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.WaddleBox.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container Stuff.vbproj.GenerateResource.Cache
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\ResolveAssemblyReference.cache
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Interop.Microsoft.Office.Core.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Interop.MSScriptControl.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Interop.Office.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Interop.Scripting.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Interop.Word.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container Stuff.vbproj.ResolveComReference.cache
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.CrystalReport1.rpt
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.CrystalReport2.rpt
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.CrystalReport3.rpt
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.AboutStuffPlus.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.ActivitySettings.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.Calculation.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.ChooseActivity.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.ChooseContainer.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.ChooseItem.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.ContainerMaster.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.ContainerMasterDrum.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.Reports.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.CustomerMaster.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.DisplayActivity.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.DisplayPicture.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.Form10.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.Form11.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.Form12.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.Form4.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.Form5.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.Form6.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.Form7.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.Form8.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.Form9.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.FreightMaster.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.frmDisplayScreen.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.frmRegister.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.frmSearch.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.frmUpdtData.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.Import_Export.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.InwardEntry.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.MasterCartonDrmEntry.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.MasterCartonEntry.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.MDIForm.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.MDIFormRes.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.NextStepShow.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.Progress8.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.Stuff_Viewers.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.StuffPlus.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.ContainerReport.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.TransactionMenu.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.TransactionsMenu.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.WaddleBox.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container Stuff.vbproj.GenerateResource.Cache
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\bin\Debug\P-Stuff.exe.manifest
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\bin\Debug\P-Stuff.application
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\bin\Debug\P-Stuff.exe
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\bin\Debug\P-Stuff.pdb
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\bin\Debug\P-Stuff.xml
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\bin\Debug\af\P-Stuff.resources.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\bin\Debug\System.Printing.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\bin\Debug\PresentationCore.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\bin\Debug\Interop.MSScriptControl.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\bin\Debug\Interop.Office.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\bin\Debug\Interop.Scripting.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\bin\Debug\Interop.Word.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.Resources.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\Container_Stuff.MDIForm.af.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\af\P-Stuff.resources.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\P-Stuff.TrustInfo.xml
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\P-Stuff.exe.manifest
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Debug\P-Stuff.application
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.Resources.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\Container_Stuff.MDIForm.af.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\af\P-Stuff.resources.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\P-Stuff.TrustInfo.xml
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\P-Stuff.exe.manifest
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\P-Stuff.application
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\P-Stuff.exe
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\P-Stuff.xml
+D:\SetFiles\Demo solution_0\Demo solution_0\Copy of Container Stuff\obj\Release\P-Stuff.pdb
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\bin\Debug\P-Stuff.exe.config
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\P-Stuff.exe
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\P-Stuff.xml
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\P-Stuff.pdb
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\bin\Debug\P-Stuff.exe.manifest
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\bin\Debug\P-Stuff.application
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\bin\Debug\P-Stuff.exe
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\bin\Debug\P-Stuff.pdb
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\bin\Debug\P-Stuff.xml
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\bin\Debug\af\P-Stuff.resources.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\bin\Debug\System.Printing.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\bin\Debug\PresentationCore.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\bin\Debug\Interop.MSScriptControl.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\bin\Debug\Interop.Office.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\bin\Debug\Interop.Scripting.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\bin\Debug\Interop.Word.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\ResolveAssemblyReference.cache
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Interop.MSScriptControl.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Interop.Office.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Interop.Scripting.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Interop.Word.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container Stuff.vbproj.ResolveComReference.cache
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.CrystalReport1.rpt
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.CrystalReport2.rpt
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.CrystalReport3.rpt
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.AboutStuffPlus.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.ActivitySettings.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.Calculation.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.ChooseActivity.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.ChooseContainer.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.ChooseItem.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.ContainerMaster.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.ContainerMasterDrum.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.Reports.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.CustomerMaster.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.DisplayActivity.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.DisplayPicture.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.Form10.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.Form11.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.Form12.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.Form4.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.Form5.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.Form6.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.Form7.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.Form8.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.Form9.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.FreightMaster.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.frmDisplayScreen.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.frmRegister.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.frmSearch.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.frmUpdtData.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.Import_Export.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.InwardEntry.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.MasterCartonDrmEntry.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.MasterCartonEntry.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.MDIForm.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.MDIFormRes.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.Resources.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.NextStepShow.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.Progress8.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.Stuff_Viewers.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.StuffPlus.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.ContainerReport.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.TransactionMenu.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.TransactionsMenu.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.WaddleBox.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container Stuff.vbproj.GenerateResource.Cache
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.MDIForm.af.resources
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\af\P-Stuff.resources.dll
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\P-Stuff.TrustInfo.xml
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\P-Stuff.exe.manifest
+D:\SetFiles\Demo solution_0\Demo solution_0\P-Stuff\Container Stuff\obj\Debug\P-Stuff.application
+E:\TaskFolder\P-Stuff\Container Stuff\bin\Debug\P-Stuff.exe.config
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\P-Stuff.exe
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\P-Stuff.xml
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\P-Stuff.pdb
+E:\TaskFolder\P-Stuff\Container Stuff\bin\Debug\P-Stuff.exe.manifest
+E:\TaskFolder\P-Stuff\Container Stuff\bin\Debug\P-Stuff.application
+E:\TaskFolder\P-Stuff\Container Stuff\bin\Debug\P-Stuff.exe
+E:\TaskFolder\P-Stuff\Container Stuff\bin\Debug\P-Stuff.pdb
+E:\TaskFolder\P-Stuff\Container Stuff\bin\Debug\P-Stuff.xml
+E:\TaskFolder\P-Stuff\Container Stuff\bin\Debug\af\P-Stuff.resources.dll
+E:\TaskFolder\P-Stuff\Container Stuff\bin\Debug\System.Printing.dll
+E:\TaskFolder\P-Stuff\Container Stuff\bin\Debug\PresentationCore.dll
+E:\TaskFolder\P-Stuff\Container Stuff\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\TaskFolder\P-Stuff\Container Stuff\bin\Debug\Interop.MSScriptControl.dll
+E:\TaskFolder\P-Stuff\Container Stuff\bin\Debug\Interop.Office.dll
+E:\TaskFolder\P-Stuff\Container Stuff\bin\Debug\Interop.Scripting.dll
+E:\TaskFolder\P-Stuff\Container Stuff\bin\Debug\Interop.Word.dll
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\ResolveAssemblyReference.cache
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Interop.MSScriptControl.dll
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Interop.Office.dll
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Interop.Scripting.dll
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Interop.Word.dll
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container Stuff.vbproj.ResolveComReference.cache
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.CrystalReport1.rpt
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.CrystalReport2.rpt
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.CrystalReport3.rpt
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.AboutStuffPlus.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.ActivitySettings.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.Calculation.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.ChooseActivity.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.ChooseContainer.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.ChooseItem.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.ContainerMaster.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.ContainerMasterDrum.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.Reports.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.CustomerMaster.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.DisplayActivity.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.DisplayPicture.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.Form10.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.Form11.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.Form12.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.Form4.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.Form5.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.Form6.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.Form7.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.Form8.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.Form9.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.FreightMaster.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.frmDisplayScreen.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.frmRegister.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.frmSearch.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.frmUpdtData.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.Import_Export.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.InwardEntry.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.MasterCartonDrmEntry.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.MasterCartonEntry.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.MDIForm.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.MDIFormRes.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.Resources.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.NextStepShow.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.Progress8.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.Stuff_Viewers.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.StuffPlus.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.ContainerReport.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.TransactionMenu.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.TransactionsMenu.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.WaddleBox.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container Stuff.vbproj.GenerateResource.Cache
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\Container_Stuff.MDIForm.af.resources
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\af\P-Stuff.resources.dll
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\P-Stuff.TrustInfo.xml
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\P-Stuff.exe.manifest
+E:\TaskFolder\P-Stuff\Container Stuff\obj\Debug\P-Stuff.application

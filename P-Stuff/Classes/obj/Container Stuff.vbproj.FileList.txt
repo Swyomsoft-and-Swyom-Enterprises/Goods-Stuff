@@ -1,0 +1,139 @@
+bin\Release\Container Stuff.exe.config
+bin\Release\Container Stuff.exe
+bin\Release\Container Stuff.pdb
+bin\Release\Container Stuff.xml
+bin\Release\Interop.Crystal.dll
+bin\Release\Interop.Microsoft.Office.Core.dll
+bin\Release\Interop.VBIDE.dll
+bin\Release\Interop.Word.dll
+bin\Release\AxInterop.Crystal.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Interop.Crystal.dll
+obj\Release\Interop.Microsoft.Office.Core.dll
+obj\Release\Interop.VBIDE.dll
+obj\Release\Interop.Word.dll
+obj\Release\AxInterop.Crystal.dll
+obj\Release\Container Stuff.vbproj.ResolveComReference.cache
+obj\Release\Container_Stuff.ContainerMaster.resources
+obj\Release\Container_Stuff.Reports.resources
+obj\Release\Container_Stuff.CustomerMaster.resources
+obj\Release\Container_Stuff.Form4.resources
+obj\Release\Container_Stuff.Form8.resources
+obj\Release\Container_Stuff.FreightMaster.resources
+obj\Release\Container_Stuff.frmDisplayScreen.resources
+obj\Release\Container_Stuff.FrmMainDisplay.resources
+obj\Release\Container_Stuff.frmSearch.resources
+obj\Release\Container_Stuff.InwardEntry.resources
+obj\Release\Container_Stuff.ItemMaster.resources
+obj\Release\Container_Stuff.MasterCartonEntry.resources
+obj\Release\Container_Stuff.MastersMenu.resources
+obj\Release\Container_Stuff.mdiform.resources
+obj\Release\Container_Stuff.Resources.resources
+obj\Release\Container_Stuff.ContainerReport.resources
+obj\Release\Container_Stuff.TransactionMenu.resources
+obj\Release\Container Stuff.vbproj.GenerateResource.Cache
+obj\Release\Container Stuff.exe
+obj\Release\Container Stuff.xml
+obj\Release\Container Stuff.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Container Stuff.vbproj.ResolveComReference.cache
+obj\Debug\Container_Stuff.CrystalReport1.rpt
+obj\Debug\Container_Stuff.CrystalReport2.rpt
+obj\Debug\Container_Stuff.ContainerMaster.resources
+obj\Debug\Container_Stuff.Reports.resources
+obj\Debug\Container_Stuff.CustomerMaster.resources
+obj\Debug\Container_Stuff.Form3.resources
+obj\Debug\Container_Stuff.Form4.resources
+obj\Debug\Container_Stuff.Form5.resources
+obj\Debug\Container_Stuff.Form8.resources
+obj\Debug\Container_Stuff.FreightMaster.resources
+obj\Debug\Container_Stuff.frmDisplayScreen.resources
+obj\Debug\Container_Stuff.frmRegister.resources
+obj\Debug\Container_Stuff.frmSearch.resources
+obj\Debug\Container_Stuff.frmUpdtData.resources
+obj\Debug\Container_Stuff.InwardEntry.resources
+obj\Debug\Container_Stuff.MasterCartonEntry.resources
+obj\Debug\Container_Stuff.mdiform.resources
+obj\Debug\Container_Stuff.Resources.resources
+obj\Debug\Container_Stuff.ContainerReport.resources
+obj\Debug\Container_Stuff.TransactionMenu.resources
+obj\Debug\Container Stuff.vbproj.GenerateResource.Cache
+obj\Debug\Container_Stuff.mdiform.af.resources
+bin\Debug\Container Stuff.exe.config
+bin\Debug\Container Stuff.exe
+bin\Debug\Container Stuff.pdb
+bin\Debug\Container Stuff.xml
+bin\Debug\af\Container Stuff.resources.dll
+obj\Debug\af\Container Stuff.resources.dll
+obj\Debug\Container Stuff.exe
+obj\Debug\Container Stuff.xml
+obj\Debug\Container Stuff.pdb
+obj\Debug\Container_Stuff.CrystalReport3.rpt
+obj\Debug\Container_Stuff.Form6.resources
+obj\Debug\Container_Stuff.Form7.resources
+obj\Debug\Interop.Microsoft.Office.Core.dll
+bin\Debug\Interop.Microsoft.Office.Core.dll
+bin\Debug\Interop.Word.dll
+obj\Debug\Interop.Word.dll
+obj\Debug\Container_Stuff.Form9.resources
+obj\Debug\Container_Stuff.Form10.resources
+obj\Debug\Container_Stuff.Form11.resources
+obj\Debug\Container_Stuff.Form12.resources
+bin\Debug\Interop.Office.dll
+obj\Debug\Interop.Office.dll
+obj\Debug\Container_Stuff.ActivitySettings.resources
+obj\Debug\Container_Stuff.Stuff_Viewers.resources
+obj\Debug\Container_Stuff.TransactionsMenu.resources
+obj\Debug\Container_Stuff.ChooseActivity.resources
+obj\Release\Interop.ADODB.dll
+obj\Release\Interop.Office.dll
+obj\Release\Interop.Scripting.dll
+obj\Release\Interop.SkySwReg.dll
+obj\Release\Container_Stuff.CrystalReport1.rpt
+obj\Release\Container_Stuff.CrystalReport2.rpt
+obj\Release\Container_Stuff.CrystalReport3.rpt
+obj\Release\Container_Stuff.ActivitySettings.resources
+obj\Release\Container_Stuff.ChooseActivity.resources
+obj\Release\Container_Stuff.Form10.resources
+obj\Release\Container_Stuff.Form11.resources
+obj\Release\Container_Stuff.Form12.resources
+obj\Release\Container_Stuff.Form3.resources
+obj\Release\Container_Stuff.Form5.resources
+obj\Release\Container_Stuff.Form6.resources
+obj\Release\Container_Stuff.Form7.resources
+obj\Release\Container_Stuff.Form9.resources
+obj\Release\Container_Stuff.frmRegister.resources
+obj\Release\Container_Stuff.frmUpdtData.resources
+obj\Release\Container_Stuff.Stuff_Viewers.resources
+obj\Release\Container_Stuff.TransactionsMenu.resources
+obj\Release\Container_Stuff.mdiform.af.resources
+obj\Debug\Container_Stuff.DisplayActivity.resources
+obj\Debug\Container_Stuff.Import_Export.resources
+obj\Debug\Container_Stuff.MasterCartonDrmEntry.resources
+obj\Debug\Container_Stuff.ChooseItem.resources
+obj\Debug\Container_Stuff.AboutStuffPlus.resources
+obj\Debug\Container_Stuff.ContainerMasterDrum.resources
+obj\Debug\Container_Stuff.ChooseContainer.resources
+obj\Debug\Container_Stuff.StuffPlus.resources
+obj\Debug\Container_Stuff.Progress8.resources
+obj\Debug\Container_Stuff.DisplayPicture.resources
+obj\Release\Container_Stuff.AboutStuffPlus.resources
+obj\Release\Container_Stuff.ChooseContainer.resources
+obj\Release\Container_Stuff.ChooseItem.resources
+obj\Release\Container_Stuff.ContainerMasterDrum.resources
+obj\Release\Container_Stuff.DisplayActivity.resources
+obj\Release\Container_Stuff.DisplayPicture.resources
+obj\Release\Container_Stuff.Import_Export.resources
+obj\Release\Container_Stuff.MasterCartonDrmEntry.resources
+obj\Release\Container_Stuff.Progress8.resources
+obj\Release\Container_Stuff.StuffPlus.resources
+bin\Debug\Interop.Scripting.dll
+obj\Debug\Interop.Scripting.dll
+obj\Debug\Interop.SkySwReg.dll
+bin\Debug\Interop.SkySwReg.dll
+obj\Debug\Container_Stuff.WaddleBox.resources
+bin\Debug\Container Stuff.exe.manifest
+bin\Debug\Container Stuff.application
+obj\Debug\Container Stuff.TrustInfo.xml
+obj\Debug\Container Stuff.exe.manifest
+obj\Debug\Container Stuff.application

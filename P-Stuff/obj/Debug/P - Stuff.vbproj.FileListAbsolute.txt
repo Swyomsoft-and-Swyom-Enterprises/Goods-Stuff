@@ -1,0 +1,341 @@
+E:\Working Folder\P-Stuffs\bin\Debug\P-Stuff.exe.manifest
+E:\Working Folder\P-Stuffs\bin\Debug\P-Stuff.application
+E:\Working Folder\P-Stuffs\bin\Debug\P-Stuff.exe
+E:\Working Folder\P-Stuffs\bin\Debug\P-Stuff.pdb
+E:\Working Folder\P-Stuffs\bin\Debug\P-Stuff.xml
+E:\Working Folder\P-Stuffs\bin\Debug\af\P-Stuff.resources.dll
+E:\Working Folder\P-Stuffs\bin\Debug\System.Printing.dll
+E:\Working Folder\P-Stuffs\bin\Debug\Interop.JRO.dll
+E:\Working Folder\P-Stuffs\bin\Debug\PresentationCore.dll
+E:\Working Folder\P-Stuffs\bin\Debug\Interop.MSScriptControl.dll
+E:\Working Folder\P-Stuffs\bin\Debug\Interop.Scripting.dll
+E:\Working Folder\P-Stuffs\obj\Debug\ResolveAssemblyReference.cache
+E:\Working Folder\P-Stuffs\obj\Debug\Interop.JRO.dll
+E:\Working Folder\P-Stuffs\obj\Debug\Interop.MSScriptControl.dll
+E:\Working Folder\P-Stuffs\obj\Debug\Interop.Scripting.dll
+E:\Working Folder\P-Stuffs\obj\Debug\P - Stuff.vbproj.ResolveComReference.cache
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.AboutStuffPlus.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.ActivitySettings.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.Calculation.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.ChooseActivity.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.ChooseContainer.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.ChooseItem.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.ContainerMaster.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.ContainerMasterDrum.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.Reports.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.FreightMaster.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.frmRegister.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.frmStep.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.frmTrial.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.frmUpdtData.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.InwardEntry.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.MasterCartonDrmEntry.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.NextStepShow.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.Progress8.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.StuffPlus.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.TransactionsMenu.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.WaddleBox.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.CustomerMaster.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.DisplayActivity.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.DisplayPicture.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.Form10.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.Form11.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.Form12.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.Form4.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.Form5.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.Form6.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.Form7.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.Form8.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.Form9.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.frmDisplayScreen.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.frmSearch.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.Import_Export.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.MasterCartonEntry.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.MDIForm.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.Resources.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.Stuff_Viewers.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.ContainerReport.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.TransactionMenu.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.usProgress.resources
+E:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.MDIForm.af.resources
+E:\Working Folder\P-Stuffs\obj\Debug\P - Stuff.vbproj.GenerateResource.Cache
+E:\Working Folder\P-Stuffs\obj\Debug\af\P-Stuff.resources.dll
+E:\Working Folder\P-Stuffs\obj\Debug\P-Stuff.TrustInfo.xml
+E:\Working Folder\P-Stuffs\obj\Debug\P-Stuff.exe.manifest
+E:\Working Folder\P-Stuffs\obj\Debug\P-Stuff.application
+E:\Working Folder\P-Stuffs\obj\Debug\P-Stuff.exe
+E:\Working Folder\P-Stuffs\obj\Debug\P-Stuff.xml
+E:\Working Folder\P-Stuffs\obj\Debug\P-Stuff.pdb
+D:\Working Folder\P-Stuffs\bin\Debug\P-Stuff.exe.manifest
+D:\Working Folder\P-Stuffs\bin\Debug\P-Stuff.application
+D:\Working Folder\P-Stuffs\bin\Debug\P-Stuff.exe
+D:\Working Folder\P-Stuffs\bin\Debug\P-Stuff.pdb
+D:\Working Folder\P-Stuffs\bin\Debug\P-Stuff.xml
+D:\Working Folder\P-Stuffs\bin\Debug\af\P-Stuff.resources.dll
+D:\Working Folder\P-Stuffs\bin\Debug\Interop.MSScriptControl.dll
+D:\Working Folder\P-Stuffs\bin\Debug\Interop.Scripting.dll
+D:\Working Folder\P-Stuffs\obj\Debug\ResolveAssemblyReference.cache
+D:\Working Folder\P-Stuffs\obj\Debug\Interop.MSScriptControl.dll
+D:\Working Folder\P-Stuffs\obj\Debug\Interop.Scripting.dll
+D:\Working Folder\P-Stuffs\obj\Debug\P - Stuff.vbproj.ResolveComReference.cache
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.AboutStuffPlus.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.ActivitySettings.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.Calculation.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.ChooseActivity.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.ChooseContainer.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.ChooseItem.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.ContainerMaster.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.ContainerMasterDrum.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.Reports.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.FreightMaster.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.frmRegister.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.frmStep.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.frmTrial.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.frmUpdtData.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.InwardEntry.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.MasterCartonDrmEntry.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.NextStepShow.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.Progress8.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.StuffPlus.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.TransactionsMenu.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.WaddleBox.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.CustomerMaster.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.DisplayActivity.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.DisplayPicture.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.Form10.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.Form11.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.Form12.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.Form4.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.Form5.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.Form6.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.Form7.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.Form8.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.Form9.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.frmDisplayScreen.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.frmSearch.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.Import_Export.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.MasterCartonEntry.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.MDIForm.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.Resources.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.Stuff_Viewers.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.ContainerReport.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.TransactionMenu.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.usProgress.resources
+D:\Working Folder\P-Stuffs\obj\Debug\Container_Stuff.MDIForm.af.resources
+D:\Working Folder\P-Stuffs\obj\Debug\P - Stuff.vbproj.GenerateResource.Cache
+D:\Working Folder\P-Stuffs\obj\Debug\af\P-Stuff.resources.dll
+D:\Working Folder\P-Stuffs\obj\Debug\P-Stuff.TrustInfo.xml
+D:\Working Folder\P-Stuffs\obj\Debug\P-Stuff.exe.manifest
+D:\Working Folder\P-Stuffs\obj\Debug\P-Stuff.application
+D:\Working Folder\P-Stuffs\obj\Debug\P-Stuff.exe
+D:\Working Folder\P-Stuffs\obj\Debug\P-Stuff.xml
+D:\Working Folder\P-Stuffs\obj\Debug\P-Stuff.pdb
+D:\Working Folder\P-Stuffs\obj\Debug\Interop.ADODB.dll
+D:\Working Folder\P-Stuffs\bin\Debug\Interop.ADODB.dll
+D:\Working Folder\P-Stuffss\P-Stuffs\bin\Debug\P-Stuff.exe.manifest
+D:\Working Folder\P-Stuffss\P-Stuffs\bin\Debug\P-Stuff.application
+D:\Working Folder\P-Stuffss\P-Stuffs\bin\Debug\P-Stuff.exe
+D:\Working Folder\P-Stuffss\P-Stuffs\bin\Debug\P-Stuff.pdb
+D:\Working Folder\P-Stuffss\P-Stuffs\bin\Debug\P-Stuff.xml
+D:\Working Folder\P-Stuffss\P-Stuffs\bin\Debug\af\P-Stuff.resources.dll
+D:\Working Folder\P-Stuffss\P-Stuffs\bin\Debug\Interop.ADODB.dll
+D:\Working Folder\P-Stuffss\P-Stuffs\bin\Debug\Interop.MSScriptControl.dll
+D:\Working Folder\P-Stuffss\P-Stuffs\bin\Debug\Interop.Scripting.dll
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\ResolveAssemblyReference.cache
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Interop.ADODB.dll
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Interop.MSScriptControl.dll
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Interop.Scripting.dll
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\P - Stuff.vbproj.ResolveComReference.cache
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.AboutStuffPlus.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.ActivitySettings.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.Calculation.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.ChooseActivity.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.ChooseContainer.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.ChooseItem.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.ContainerMaster.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.ContainerMasterDrum.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.Reports.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.FreightMaster.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.frmRegister.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.frmStep.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.frmTrial.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.frmUpdtData.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.InwardEntry.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.MasterCartonDrmEntry.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.NextStepShow.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.Progress8.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.StuffPlus.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.TransactionsMenu.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.WaddleBox.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.CustomerMaster.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.DisplayActivity.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.DisplayPicture.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.Form10.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.Form11.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.Form12.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.Form4.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.Form5.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.Form6.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.Form7.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.Form8.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.Form9.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.frmDisplayScreen.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.frmSearch.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.Import_Export.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.MasterCartonEntry.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.MDIForm.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.Resources.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.Stuff_Viewers.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.ContainerReport.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.TransactionMenu.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.usProgress.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\Container_Stuff.MDIForm.af.resources
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\P - Stuff.vbproj.GenerateResource.Cache
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\af\P-Stuff.resources.dll
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\P-Stuff.TrustInfo.xml
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\P-Stuff.exe.manifest
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\P-Stuff.application
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\P-Stuff.exe
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\P-Stuff.xml
+D:\Working Folder\P-Stuffss\P-Stuffs\obj\Debug\P-Stuff.pdb
+F:\P-Stuff\P-Stuff\obj\Debug\Interop.Scripting.dll
+F:\P-Stuff\P-Stuff\obj\Debug\P - Stuff.vbproj.ResolveComReference.cache
+F:\P-Stuff\P-Stuff\obj\Debug\P-Stuff.exe
+F:\P-Stuff\P-Stuff\obj\Debug\P-Stuff.xml
+F:\P-Stuff\P-Stuff\obj\Debug\P-Stuff.pdb
+F:\P-Stuff\P-Stuff\obj\Debug\ResolveAssemblyReference.cache
+F:\P-Stuff\P-Stuff\bin\Debug\P-Stuff.exe.manifest
+F:\P-Stuff\P-Stuff\bin\Debug\P-Stuff.application
+F:\P-Stuff\P-Stuff\bin\Debug\P-Stuff.exe
+F:\P-Stuff\P-Stuff\bin\Debug\P-Stuff.pdb
+F:\P-Stuff\P-Stuff\bin\Debug\P-Stuff.xml
+F:\P-Stuff\P-Stuff\bin\Debug\af\P-Stuff.resources.dll
+F:\P-Stuff\P-Stuff\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\P-Stuff\P-Stuff\bin\Debug\Interop.AcroIEHelperShimLib.dll
+F:\P-Stuff\P-Stuff\bin\Debug\Interop.FolderViewControl.dll
+F:\P-Stuff\P-Stuff\bin\Debug\Interop.IWshRuntimeLibrary.dll
+F:\P-Stuff\P-Stuff\bin\Debug\Interop.MSDASC.dll
+F:\P-Stuff\P-Stuff\bin\Debug\Interop.MSORUNLib.dll
+F:\P-Stuff\P-Stuff\bin\Debug\Interop.ScriptingObjectModel.dll
+F:\P-Stuff\P-Stuff\obj\Debug\Interop.AcroIEHelperShimLib.dll
+F:\P-Stuff\P-Stuff\obj\Debug\Interop.FolderViewControl.dll
+F:\P-Stuff\P-Stuff\obj\Debug\Interop.IWshRuntimeLibrary.dll
+F:\P-Stuff\P-Stuff\obj\Debug\Interop.MSDASC.dll
+F:\P-Stuff\P-Stuff\obj\Debug\Interop.MSORUNLib.dll
+F:\P-Stuff\P-Stuff\obj\Debug\Interop.ScriptingObjectModel.dll
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.AboutStuffPlus.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.ActivitySettings.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.Calculation.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.ChooseActivity.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.ChooseContainer.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.ChooseItem.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.ContainerMaster.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.ContainerMasterDrum.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.Reports.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.FreightMaster.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.frmRegister.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.frmStep.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.frmTrial.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.frmUpdtData.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.InwardEntry.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.MasterCartonDrmEntry.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.NextStepShow.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.Progress8.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.StuffPlus.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.TransactionsMenu.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.WaddleBox.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.CustomerMaster.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.DisplayActivity.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.DisplayPicture.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.Form10.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.Form11.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.Form12.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.Form4.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.Form5.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.Form6.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.Form7.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.Form8.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.Form9.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.frmDisplayScreen.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.frmSearch.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.Import_Export.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.MasterCartonEntry.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.MDIForm.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.Resources.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.Stuff_Viewers.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.ContainerReport.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.TransactionMenu.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.usProgress.resources
+F:\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.MDIForm.af.resources
+F:\P-Stuff\P-Stuff\obj\Debug\P - Stuff.vbproj.GenerateResource.Cache
+F:\P-Stuff\P-Stuff\obj\Debug\af\P-Stuff.resources.dll
+F:\P-Stuff\P-Stuff\obj\Debug\P-Stuff.TrustInfo.xml
+F:\P-Stuff\P-Stuff\obj\Debug\P-Stuff.exe.manifest
+F:\P-Stuff\P-Stuff\obj\Debug\P-Stuff.application
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\P - Stuff.vbproj.ResolveComReference.cache
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\P-Stuff.exe
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\P-Stuff.xml
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\P-Stuff.pdb
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\bin\Debug\P-Stuff.exe.manifest
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\bin\Debug\P-Stuff.application
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\bin\Debug\P-Stuff.exe
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\bin\Debug\P-Stuff.pdb
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\bin\Debug\P-Stuff.xml
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\bin\Debug\af\P-Stuff.resources.dll
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\bin\Debug\CrystalDecisions.Shared.dll
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\bin\Debug\Interop.AcroIEHelperShimLib.dll
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\bin\Debug\Interop.FolderViewControl.dll
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\bin\Debug\Interop.ScriptingObjectModel.dll
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.AboutStuffPlus.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.ActivitySettings.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.Calculation.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.ChooseActivity.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.ChooseContainer.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.ChooseItem.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.ContainerMaster.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.ContainerMasterDrum.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.Reports.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.FreightMaster.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.frmRegister.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.frmStep.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.frmTrial.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.frmUpdtData.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.InwardEntry.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.MasterCartonDrmEntry.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.NextStepShow.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.Progress8.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.StuffPlus.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.TransactionsMenu.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.WaddleBox.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.CustomerMaster.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.DisplayActivity.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.DisplayPicture.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.Form10.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.Form11.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.Form12.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.Form4.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.Form5.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.Form6.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.Form7.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.Form8.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.Form9.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.frmDisplayScreen.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.frmSearch.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.Import_Export.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.MasterCartonEntry.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.MDIForm.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.Resources.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.Stuff_Viewers.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.ContainerReport.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.TransactionMenu.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.usProgress.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\Container_Stuff.MDIForm.af.resources
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\P - Stuff.vbproj.GenerateResource.Cache
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\af\P-Stuff.resources.dll
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\P-Stuff.TrustInfo.xml
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\P-Stuff.exe.manifest
+C:\SwyomsoftProjects\P-Stuff\P-Stuff\obj\Debug\P-Stuff.application

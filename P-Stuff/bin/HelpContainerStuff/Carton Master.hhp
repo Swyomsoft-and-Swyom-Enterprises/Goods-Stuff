@@ -1,0 +1,16 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Carton Master.chm
+Contents file=Table of Contents(CartonMst).hhc
+Default topic=Carton Master.htm
+Display compile progress=No
+Index file=Index(CartonMst).hhk
+Language=0x409 English (United States)
+Title=Carton Master
+
+
+[FILES]
+Carton Master.htm
+
+[INFOTYPES]
+

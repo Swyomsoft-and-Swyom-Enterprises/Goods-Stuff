@@ -1,0 +1,15 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Index.chm
+Contents file=Table of Contents.hhc
+Default topic=Index(Main).htm
+Display compile progress=No
+Index file=Index.hhk
+Language=0x409 English (United States)
+
+
+[FILES]
+Index(Main).htm
+
+[INFOTYPES]
+

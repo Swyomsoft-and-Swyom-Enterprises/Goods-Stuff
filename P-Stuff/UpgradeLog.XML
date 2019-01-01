@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="P - Stuff">
+</Property><Property Name="Solution File" Value="C:\SwyomsoftProjects\P-Stuff\P-Stuff\P - Stuff.sln">
+</Property><Property Name="User Options File" Value="C:\SwyomsoftProjects\P-Stuff\P-Stuff\P - Stuff.suo">
+</Property><Property Name="Date" Value="23 December 2018">
+</Property><Property Name="Time" Value="01:11">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="P - Stuff.sln" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\P - Stuff.sln">
+</Event><Event ErrorLevel="0" Project="" Source="P - Stuff.suo" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\P - Stuff.suo">
+</Event><Event ErrorLevel="4" Project="P - Stuff" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="Warning: this project requires Crystal Reports, which is no longer included with Visual Studio. Please click here for more information.">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="P - Stuff.vbproj" Description="Project file successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\P - Stuff.vbproj">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="P - Stuff.vbproj.user" Description="Project user file successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\P - Stuff.vbproj.user">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="ApplicationEvents.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\ApplicationEvents.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\AboutStuffPlus.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\AboutStuffPlus.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\AboutStuffPlus.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\AboutStuffPlus.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\ActivitySettings.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\ActivitySettings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\ActivitySettings.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\ActivitySettings.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\FreightMaster.designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\FreightMaster.designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\FreightMaster.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\FreightMaster.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\frmRegister.designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\frmRegister.designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\frmRegister.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\frmRegister.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\frmStep.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\frmStep.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\frmStep.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\frmStep.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\frmTrial.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\frmTrial.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\frmTrial.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\frmTrial.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\frmUpdtData.designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\frmUpdtData.designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\frmUpdtData.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\frmUpdtData.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\InwardEntry.designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\InwardEntry.designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\InwardEntry.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\InwardEntry.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\MasterCartonDrmEntry.designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\MasterCartonDrmEntry.designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\MasterCartonDrmEntry.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\MasterCartonDrmEntry.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\NextStepShow.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\NextStepShow.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\NextStepShow.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\NextStepShow.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Progress8.designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Progress8.designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Progress8.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Progress8.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\StuffPlus.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\StuffPlus.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\StuffPlus.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\StuffPlus.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\TransactionMenu.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\TransactionMenu.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\TransactionsMenu.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\TransactionsMenu.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\TransactionsMenu.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\TransactionsMenu.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\WaddleBox.designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\WaddleBox.designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\WaddleBox.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\WaddleBox.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Modules\ApplicationEvents.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Modules\ApplicationEvents.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Modules\BoxMdl.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Modules\BoxMdl.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Calculation.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Calculation.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Calculation.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Calculation.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Classes\CBArea.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Classes\CBArea.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Classes\CDArea.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Classes\CDArea.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Modules\CDMidPoint.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Modules\CDMidPoint.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Classes\CDPoint.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Classes\CDPoint.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Classes\CDrum.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Classes\CDrum.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Classes\CDArngmtCA.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Classes\CDArngmtCA.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\ChooseActivity.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\ChooseActivity.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\ChooseActivity.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\ChooseActivity.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\ChooseContainer.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\ChooseContainer.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\ChooseContainer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\ChooseContainer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\ChooseItem.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\ChooseItem.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\ChooseItem.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\ChooseItem.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="DataSets\containerDataSet.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\DataSets\containerDataSet.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\ContainerMasterDrum.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\ContainerMasterDrum.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\ContainerMasterDrum.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\ContainerMasterDrum.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Classes\CylinderC.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Classes\CylinderC.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="DataSets\containerDataSet.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\DataSets\containerDataSet.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\ContainerMaster.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\ContainerMaster.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\ContainerMaster.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\ContainerMaster.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\ContainerReport.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\ContainerReport.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\ContainerReport.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\ContainerReport.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Classes\CBPoint.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Classes\CBPoint.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Modules\NetfileAssociate.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Modules\NetfileAssociate.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Modules\ShowStuff.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Modules\ShowStuff.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Reports\CrystalReport1.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Reports\CrystalReport1.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Reports\CrystalReport2.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Reports\CrystalReport2.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Reports\CrystalReport3.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Reports\CrystalReport3.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\CustomerMaster.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\CustomerMaster.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\CustomerMaster.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\CustomerMaster.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="DataSets\DataSet1.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\DataSets\DataSet1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="DataSets\DataSet1.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\DataSets\DataSet1.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="DataSets\DataSet2.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\DataSets\DataSet2.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="DataSets\DataSet2.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\DataSets\DataSet2.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\DisplayActivity.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\DisplayActivity.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\DisplayActivity.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\DisplayActivity.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\DisplayPicture.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\DisplayPicture.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\DisplayPicture.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\DisplayPicture.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Modules\DrmCANxtMdl.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Modules\DrmCANxtMdl.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Modules\DrumMdl.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Modules\DrumMdl.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Modules\DrumNItmMdl.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Modules\DrumNItmMdl.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Modules\DrumWriteFileMdl.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Modules\DrumWriteFileMdl.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Form10.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Form10.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Form10.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Form10.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Form11.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Form11.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Form11.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Form11.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Form12.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Form12.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Form12.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Form12.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Form4.designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Form4.designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Form4.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Form4.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Form5.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Form5.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Form5.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Form5.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Form6.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Form6.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Form6.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Form6.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Form7.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Form7.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Form7.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Form7.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Form8.designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Form8.designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Form8.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Form8.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Form9.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Form9.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Form9.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Form9.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\frmDisplayScreen.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\frmDisplayScreen.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\frmDisplayScreen.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\frmDisplayScreen.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\frmSearch.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\frmSearch.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Modules\GenDRoutineSACAMdl.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Modules\GenDRoutineSACAMdl.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Modules\GeneralDrumRoutineCA.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Modules\GeneralDrumRoutineCA.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Modules\GeneralDrumStuffMdl.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Modules\GeneralDrumStuffMdl.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Modules\GenFlow.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Modules\GenFlow.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Modules\GenRoutines.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Modules\GenRoutines.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Modules\History.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Modules\History.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Import Export.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Import Export.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Import Export.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Import Export.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\MasterCartonEntry.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\MasterCartonEntry.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\MasterCartonEntry.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\MasterCartonEntry.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\MDIForm.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\MDIForm.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\MDIForm.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\MDIForm.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Modules\Module1.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Modules\Module1.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Modules\BoxMdlWritefile.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Modules\BoxMdlWritefile.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="My Project\Application.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Classes\Region.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Classes\Region.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Classes\Rotation.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Classes\Rotation.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Stuff Viewers.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Stuff Viewers.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Stuff Viewers.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Stuff Viewers.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Summarised Report.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Summarised Report.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Summarised Report.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Summarised Report.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\TransactionMenu.designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\TransactionMenu.designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="UserControl\usProgress.Designer.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\UserControl\usProgress.Designer.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="UserControl\usProgress.vb" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\UserControl\usProgress.vb">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="My Project\Application.myapp" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="My Project\Settings.settings" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Resources\Main-Screen-11-8-06.jpg" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Resources\Main-Screen-11-8-06.jpg">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="DataSets\containerDataSet.xsc" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\DataSets\containerDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="DataSets\containerDataSet.xsd" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\DataSets\containerDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="DataSets\containerDataSet.xss" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\DataSets\containerDataSet.xss">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Resources\Main-Screen-12-8-06.jpg" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Resources\Main-Screen-12-8-06.jpg">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="bin\Help.PNG" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\bin\Help.PNG">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="DataSets\DataSet1.xsc" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\DataSets\DataSet1.xsc">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="DataSets\DataSet1.xsd" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\DataSets\DataSet1.xsd">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="DataSets\DataSet1.xss" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\DataSets\DataSet1.xss">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="DataSets\DataSet2.xsc" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\DataSets\DataSet2.xsc">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="DataSets\DataSet2.xsd" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\DataSets\DataSet2.xsd">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="DataSets\DataSet2.xss" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\DataSets\DataSet2.xss">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Resources\Main_Screen_Stuff.jpg" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Resources\Main_Screen_Stuff.jpg">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Graphics\DHSDrum.PNG" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Graphics\DHSDrum.PNG">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="bin\Debug\StuffBoxes.PNG" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\bin\Debug\StuffBoxes.PNG">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Graphics\DHSDrums.PNG" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Graphics\DHSDrums.PNG">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="bin\Debug\PStuffIcn&amp;Scrn\BTN\Navigation.jpg" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\bin\Debug\PStuffIcn&amp;Scrn\BTN\Navigation.jpg">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="bin\Debug\Stuff Screens\Exim-Screen_1024-650.jpg" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\bin\Debug\Stuff Screens\Exim-Screen_1024-650.jpg">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Resources\arowR.PNG" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Resources\arowR.PNG">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Resources\arowL.PNG" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Resources\arowL.PNG">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Resources\Image1.bmp" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Resources\Image1.bmp">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="P-Stuff_Desktop Shortcut.ico" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\P-Stuff_Desktop Shortcut.ico">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\AboutStuffPlus.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\AboutStuffPlus.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\ActivitySettings.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\ActivitySettings.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Calculation.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Calculation.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\ChooseActivity.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\ChooseActivity.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\ChooseContainer.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\ChooseContainer.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\ChooseItem.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\ChooseItem.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\ContainerMaster.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\ContainerMaster.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\ContainerMasterDrum.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\ContainerMasterDrum.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\ContainerReport.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\ContainerReport.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\FreightMaster.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\FreightMaster.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\frmRegister.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\frmRegister.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\frmStep.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\frmStep.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\frmTrial.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\frmTrial.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\frmUpdtData.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\frmUpdtData.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\InwardEntry.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\InwardEntry.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\MasterCartonDrmEntry.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\MasterCartonDrmEntry.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\NextStepShow.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\NextStepShow.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Progress8.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Progress8.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\StuffPlus.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\StuffPlus.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\TransactionsMenu.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\TransactionsMenu.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\WaddleBox.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\WaddleBox.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Reports\CrystalReport1.rpt" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Reports\CrystalReport1.rpt">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Reports\CrystalReport2.rpt" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Reports\CrystalReport2.rpt">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Reports\CrystalReport3.rpt" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Reports\CrystalReport3.rpt">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\CustomerMaster.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\CustomerMaster.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\DisplayActivity.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\DisplayActivity.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\DisplayPicture.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\DisplayPicture.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Form10.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Form10.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Form11.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Form11.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Form12.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Form12.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Form4.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Form4.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Form5.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Form5.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Form6.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Form6.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Form7.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Form7.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Form8.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Form8.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Form9.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Form9.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\frmDisplayScreen.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\frmDisplayScreen.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\frmSearch.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\frmSearch.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Import Export.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Import Export.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\MasterCartonEntry.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\MasterCartonEntry.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\MDIForm.af.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\MDIForm.af.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\MDIForm.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\MDIForm.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="My Project\Resources.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Stuff Viewers.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Stuff Viewers.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\Summarised Report.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\Summarised Report.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="Forms\TransactionMenu.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\Forms\TransactionMenu.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="UserControl\usProgress.resx" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\UserControl\usProgress.resx">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="My Project\app.manifest" Description="File successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\My Project\app.manifest">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="P - Stuff.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="P - Stuff" Source="P - Stuff.vbproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="PstuffSetup" Source="..\PstuffSetup\PstuffSetup.vdproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="PstuffSetup.vdproj" Source="..\PstuffSetup\PstuffSetup.vdproj" Description="Project file successfully backed up as C:\SwyomsoftProjects\P-Stuff\P-Stuff\Backup\PstuffSetup\PstuffSetup.vdproj">
+</Event><Event ErrorLevel="0" Project="" Source="P - Stuff.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="P - Stuff.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="P - Stuff" Source="P - Stuff.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
